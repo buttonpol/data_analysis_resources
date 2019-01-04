@@ -1,2 +1,2 @@
-# ml-resource
-machine learning resources and code
+# data_analysis_resources
+data  analysis resources and code
